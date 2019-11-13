@@ -13,8 +13,10 @@ redirect_from:
   I have created this website as an template to demonstrate my interests in Computer Science and my experince with the different languages. I am experienced with the following coding languages; Html, Css, Java Script, Phython and Java. I learned these langauges from my experience of taking three of Computer Science classes which include; Coding 1, AP Computer Science Princuples and AP Computer Science A. Try it out by holding your phone's camera up to the QR code below:
 
 ![Jennifer's QR Code](/images/frame.png)
-![Printing Backwards](https://repl.it/@jennifer235/LegalHandsomeDimensions)
-![Intro to FOR Loops ](https://repl.it/@jennifer235/WheatRoyalMiddleware)
+
+
+[Printing Backwards](https://repl.it/@jennifer235/LegalHandsomeDimensions)
+[Intro to FOR Loops ](https://repl.it/@jennifer235/WheatRoyalMiddleware)
 
 
 <b> Steps </b>
