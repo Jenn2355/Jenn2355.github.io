@@ -14,6 +14,7 @@ redirect_from:
 
 ![Jennifer's QR Code](/images/frame.png)
 ![Printing Backwards](https://repl.it/@jennifer235/LegalHandsomeDimensions)
+![Intro to FOR Loops ](https://repl.it/@jennifer235/WheatRoyalMiddleware)
 
 
 <b> Steps </b>
